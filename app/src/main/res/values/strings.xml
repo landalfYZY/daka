@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">达咖接单助手</string>
 
-    <string name="homeLabel">首页</string>
-    <string name="mineLabel">我的</string>
+    <string name="homeLabel">达咖接单助手</string>
+    <string name="mineLabel">个人中心</string>
     <string name="workLabel">工作台</string>
 </resources>
